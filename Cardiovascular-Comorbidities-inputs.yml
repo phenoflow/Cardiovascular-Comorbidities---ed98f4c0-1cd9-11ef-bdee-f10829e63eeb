@@ -1,0 +1,42 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/cardiovascular-comorbidities-failure---primary.py
+inputModule3:
+  class: File
+  path: python/cardiovascular-comorbidities-infarction---primary.py
+inputModule4:
+  class: File
+  path: python/cardiovascular-comorbidities-elevation---primary.py
+inputModule5:
+  class: File
+  path: python/coronary-cardiovascular-comorbidities---primary.py
+inputModule6:
+  class: File
+  path: python/ventricular-cardiovascular-comorbidities---primary.py
+inputModule7:
+  class: File
+  path: python/acute-cardiovascular-comorbidities---primary.py
+inputModule8:
+  class: File
+  path: python/cardiovascular-comorbidities-graft---primary.py
+inputModule9:
+  class: File
+  path: python/hypertensive-cardiovascular-comorbidities---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-comorbidities-heart---primary.py
+inputModule11:
+  class: File
+  path: python/cardiovascular-comorbidities-angina---primary.py
+inputModule12:
+  class: File
+  path: python/right-cardiovascular-comorbidities---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
